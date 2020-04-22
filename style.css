@@ -22,6 +22,10 @@ h1{
 .set{
     margin:10% auto;
 }
+.pressed{
+    box-shadow: 0 3px 4px 0 rgb(255, 184, 255);
+    opacity: 0.5;
+}
 .w{
     background-image: url("images/tom1.png");
 }
