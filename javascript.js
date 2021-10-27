@@ -47,7 +47,7 @@ function makeSound(key)
             crash.play();
             break;
         default:
-            console.log(key);
+            
     }
 }
 function buttonAnimation(currentKey) {
