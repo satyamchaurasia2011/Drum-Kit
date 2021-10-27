@@ -15,8 +15,9 @@ h1{
     height: 150px;
     border: 10px solid rgb(100, 14, 100);
     border-style: outset;
-    margin: 10px;
+    margin: 15px;
     background-color: white;
+    border-radius: 50px;
    
 }
 .set{
