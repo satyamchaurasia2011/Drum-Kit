@@ -1,2 +1,2 @@
 # Drum-Kit
-You can play Music by Drum kit and discover various new sound from this...
+You can play Music by Drum Kit And Discover Various New Sound From this.
